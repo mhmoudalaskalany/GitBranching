@@ -10,6 +10,7 @@ namespace GitBranching
             Console.WriteLine("Test");
             Console.WriteLine("Add First Commit");
             Console.WriteLine("Fix Task");
+            Console.WriteLine("Fix Fix 1");
         }
     }
 }
